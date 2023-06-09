@@ -16,8 +16,21 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IStaffDal, EfStaffDal>();
 builder.Services.AddScoped<IStaffService, StaffManager>();
+
 builder.Services.AddScoped<IRoomDal, EfRoomDal>();
 builder.Services.AddScoped<IRoomService, RoomManager>();
+
+builder.Services.AddScoped<ISubscribeDal, EfSubscribeDal>();
+builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
+
+builder.Services.AddScoped<IServicesDal, EfServiceDal>();
+builder.Services.AddScoped<IServiceService, ServiceManager>();
+
+builder.Services.AddScoped<ITestimonialDal, EfTestimonialDal>();
+builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
+
+
+
 
 var app = builder.Build();
 
