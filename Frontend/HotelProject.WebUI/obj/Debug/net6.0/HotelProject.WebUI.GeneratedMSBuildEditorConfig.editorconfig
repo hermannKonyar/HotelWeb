@@ -20,6 +20,34 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRDb250cm9sbGVyMVxfQWRtaW5MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSGVhZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/NavHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcTmF2SGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/PreloaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcUHJlbG9hZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcU2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/AdminLayout/SidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcU2lkZWJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Hermann/source/repos/HotelProject/Frontend/HotelProject.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
